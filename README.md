@@ -1,6 +1,6 @@
 # YorumAnalizSistemi
 Uzman Sistemler Proje (OCAK , 2021)
-
+Projenin YouTube Linki : https://www.youtube.com/watch?v=mUZ-iAV8nqo&feature=youtu.be
 
 DİZİ-FİLM YORUM SINIFLANDIRMA SİSTEMİ
 
